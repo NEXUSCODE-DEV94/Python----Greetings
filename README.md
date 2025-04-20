@@ -3,3 +3,6 @@
 
 # Pythonをインストール
 https://python.org
+
+# VisualStudioCodeの場合
+ターミナルで[python main.py]
